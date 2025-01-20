@@ -37,8 +37,8 @@ A Python package for simulating quantum circuits with support for various quantu
 
 ### From source
 ```bash
-git clone https://github.com/Mridul299792458/quantum-simulator.git
-cd quantum-simulator/dist
+git clone https://github.com/Mridul299792458/quantum_simulator.git
+cd quantum_simulator/dist
 pip install quantum_simulator-0.1.0-py3-none-any.whl
 or
 pip install quantum_simulator-0.1.0.tar.gz .
