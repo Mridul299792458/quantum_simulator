@@ -181,7 +181,7 @@ If you use this package in your research, please cite:
   title = {Quantum Circuit Simulator},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/Mridul299792458/quantum-simulator}
+  url = {https://github.com/Mridul299792458/quantum_simulator}
 }
 ```
 
