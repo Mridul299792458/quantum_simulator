@@ -187,8 +187,6 @@ If you use this package in your research, please cite:
 
 ## Acknowledgments
 
-- Thanks to all contributors who have helped with the development of this package
-- Inspired by various quantum computing frameworks and simulators
-=======
-Quantum Simulator.
->>>>>>> 8190ac511fb24c320f9c7536f0b98734718a04b7
+- Thanks to all contributors who have helped with the development of this package.
+- Inspired by various quantum computing frameworks and simulators.
+
